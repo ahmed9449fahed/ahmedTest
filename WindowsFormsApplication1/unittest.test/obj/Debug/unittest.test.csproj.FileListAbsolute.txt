@@ -1,6 +1,0 @@
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\unittest.test\bin\Debug\unittest.test.dll
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\unittest.test\bin\Debug\unittest.test.pdb
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\unittest.test\bin\Debug\nunit.framework.dll
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\unittest.test\bin\Debug\nunit.framework.xml
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\unittest.test\obj\Debug\unittest.test.dll
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\unittest.test\obj\Debug\unittest.test.pdb
