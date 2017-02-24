@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NUnit.Framework;
-
-namespace UnitTest
+using  NUnit.Framework;
+    
+    namespace UnitTest
 {
     [TestFixture]
     public class Class1
     {
-        [Test]
+       [Test]
         public void FirstTest()
         {
             
