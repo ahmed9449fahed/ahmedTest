@@ -1,7 +1,0 @@
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\bin\Debug\UnitTest.dll
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\bin\Debug\UnitTest.pdb
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\bin\Debug\nunit.framework.dll
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\bin\Debug\nunit.framework.xml
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\obj\Debug\UnitTest.dll
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\obj\Debug\UnitTest.pdb
