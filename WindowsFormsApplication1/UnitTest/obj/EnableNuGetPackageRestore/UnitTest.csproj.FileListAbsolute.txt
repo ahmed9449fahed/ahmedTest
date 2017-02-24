@@ -1,0 +1,6 @@
+C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\bin\EnableNuGetPackageRestore\UnitTest.dll.config
+C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\bin\EnableNuGetPackageRestore\UnitTest.dll
+C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\bin\EnableNuGetPackageRestore\nunit.framework.dll
+C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\bin\EnableNuGetPackageRestore\nunit.framework.xml
+C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\obj\EnableNuGetPackageRestore\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\UnitTest\obj\EnableNuGetPackageRestore\UnitTest.dll

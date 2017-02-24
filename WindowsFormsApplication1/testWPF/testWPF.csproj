@@ -34,6 +34,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'EnableNuGetPackageRestore|AnyCPU'">
+    <OutputPath>bin\EnableNuGetPackageRestore\</OutputPath>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="DevExpress.Xpf.Core.v15.2" />
     <Reference Include="DevExpress.Data.v15.2" />
