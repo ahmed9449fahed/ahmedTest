@@ -31,3 +31,4 @@ C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\obj\Debug\test
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\obj\Debug\testWPF.csproj.GenerateResource.Cache
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\obj\Debug\testWPF.exe
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\obj\Debug\testWPF.pdb
+C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
