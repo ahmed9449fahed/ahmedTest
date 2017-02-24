@@ -1,3 +1,0 @@
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\WindowsFormsApplication1.test\obj\Debug\WindowsFormsApplication1.test.csprojResolveAssemblyReference.cache
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\WindowsFormsApplication1.test\obj\Debug\WindowsFormsApplication1.test.Properties.Resources.resources
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\WindowsFormsApplication1.test\obj\Debug\WindowsFormsApplication1.test.csproj.GenerateResource.Cache
