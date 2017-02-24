@@ -7,4 +7,3 @@ C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\WindowsFormsApplicatio
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

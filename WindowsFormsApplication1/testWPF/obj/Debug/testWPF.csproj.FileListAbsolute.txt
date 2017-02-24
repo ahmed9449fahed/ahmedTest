@@ -22,7 +22,6 @@ C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\bin\Debug\de\D
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
-C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\obj\Debug\testWPF.csprojResolveAssemblyReference.cache
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\obj\Debug\MainWindow.baml
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\obj\Debug\MainWindow.g.cs
 C:\Users\afa\Documents\ahmedTest\WindowsFormsApplication1\testWPF\obj\Debug\App.g.cs
